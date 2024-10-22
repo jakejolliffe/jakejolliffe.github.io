@@ -1,0 +1,21 @@
+body{
+background-color:rgb(105, 162, 176);
+color: #000f08;
+}
+h1{
+text-align: center;
+}
+b{
+color: rgb(219, 41, 85);
+}
+p{background-color: rgb(76, 185, 68);
+color: #414288;
+font-size: x-large;
+}
+div{background-color: rgb(76, 185, 68);
+font-size: x-large;
+color: #414288;}
+h2{
+text-align: center;
+}
+img{ float: right;}
